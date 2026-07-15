@@ -1,5 +1,7 @@
 # Sales deals analysis
 
+![Pandas cleaning code](cover.jpg)
+
 A small but complete data project in two parts: Python fundamentals, then a real analysis of a sales pipeline with pandas.
 
 ## Part 1, fundamentals
